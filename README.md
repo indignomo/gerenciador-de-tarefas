@@ -61,6 +61,4 @@ Navegação no menu:
 Distribuído sob licença MIT. Veja o arquivo `LICENSE` para mais informações.
 
 ---
-
-Desenvolvido com ❤️ por [Seu Nome]  
 Contribuições são bem-vindas!
